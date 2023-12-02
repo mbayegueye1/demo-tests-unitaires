@@ -1,4 +1,4 @@
-package fr.diginamic.utils;
+package fr.diginamic.enumerations;
 
 
 import fr.diginamic.enumerations.Saison;
